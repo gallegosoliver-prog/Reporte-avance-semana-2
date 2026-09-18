@@ -30,7 +30,11 @@ para que el extractor consulte el RSS cada cierto tiempo (por ejemplo, cada 3 ho
 
 
 
+
 Conceptos Aprendidos 
 RSS: Es un formato XML que agrupa o reune todas las noticias publicadas por una pagina web 
 XML:es el formato en el que esta estructurado o organizado el RSS en donde cada  una de las noticia esta en una etiqueta
 Item:Cada noticia que se publica en la pagina web se guarda como un item y dentro de el viene la informacion de esa publicacion
+
+<img width="1618" height="465" alt="image" src="https://github.com/user-attachments/assets/b376bc3f-85d2-4490-a383-b32d85f3e574" />
+
