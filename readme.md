@@ -24,7 +24,7 @@ Se llego a un acuerdo con el modulo de  Alejandra y Ximena, quienes son responsa
 Estado actual del programa/Modulo
 Actualmente el script puede conectarse al RSS de forma correcta y sin errores , extraer los enlaces de las noticias, almacenarlos en un archivo JSON y mantener ese registro o almacenamiento actualizado con las noticias mas recientes si es que las hay. 
 
--A el programa le falta desarrollar una funcion que le perimita la automatizacion de este proceso
+-A el programa le falta desarrollar una funcion que le permita la automatizacion de este proceso
 para que el extractor consulte el RSS cada cierto tiempo (por ejemplo, cada 3 horas) y actualice el archivo JSON con los links
 -Analisis de los datos una vez regresen del equipo de Alejandra y Ximena.
 
